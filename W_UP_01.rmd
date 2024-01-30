@@ -1,6 +1,6 @@
 ---
 title: "W_UP_01"
-author: "jamal"
+author: "jamal evans"
 date: "spring 2024"
 output: html_document
 ---
@@ -58,6 +58,7 @@ This graph shows that skill position playerz can do more pushups in 2 minutes th
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+The line of code for numerical results I got from my data would not run chunks in posit so in order to knit I had to delete the line!!! There was nothing wrong with the way the code was put I think posit may have been bugged :-P
 
 this table shows the average number of pushups done by players in line positions was 17, mean number of pushups done in 2 minutes by SKILL players was 50
 
@@ -75,3 +76,4 @@ The p-value is 0.000009421 < 0.05 so we reject $H_0$
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
+Skill players are statistically shown to have faster amounts of pushups than Line players. Allowing us to reject our Null that there is no difference considering p-value < 0.05
