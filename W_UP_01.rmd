@@ -58,7 +58,7 @@ This graph shows that skill position playerz can do more pushups in 2 minutes th
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
-The line of code for numerical results I got from my data would not run chunks in posit so in order to knit I had to delete the line!!! There was nothing wrong with the way the code was put I think posit may have been bugged :-P
+The line of code for numerical results I got from my data would not run chunks in posit so in order to knit I had to delete the line(table) !!! 
 
 this table shows the average number of pushups done by players in line positions was 17, mean number of pushups done in 2 minutes by SKILL players was 50
 
