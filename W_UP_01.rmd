@@ -35,6 +35,8 @@ We want to determine if number of pushups based on poosition (line, skill) is di
 
 Pushups is a numerical variable; position is a categorical variable! Therefore we use num~cat
 
+we use a numerical`cat helper
+
 # Results
 
 <!--Divide this section into two sub-sections: One for your descriptive results and one for your inferential results.!-->
@@ -49,7 +51,7 @@ Pushups is a numerical variable; position is a categorical variable! Therefore w
 boxplot(pushups~position,data=mydata)
 ```
   
-This graph shows that skill position players can do more pushups in 2 minutes than can line playerz.
+This graph shows that skill position playerz can do more pushups in 2 minutes than can line playerz.
 
 
 ### Numerical Descriptive Results
